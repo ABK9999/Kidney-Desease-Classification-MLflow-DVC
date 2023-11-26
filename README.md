@@ -1,7 +1,6 @@
-# Kidney-Desease-Classification-MLflow-DVC
+# Kidney Disease Classification using Deep Learning MLflow DVC
 This repository leverages Deep Learning Technology to predict kidney disease! It also leverages MLflow for efficient model tracking and management, coupled with DVC for version control. Explore a streamlined workflow for kidney disease classification, ensuring reproducibility and collaboration.
 
-# Kidney-Disease-Classification-MLflow-DVC
 
 
 ## Workflows
@@ -23,7 +22,7 @@ This repository leverages Deep Learning Technology to predict kidney disease! It
 Clone the repository
 
 ```bash
-https://github.com/ABK9999/Kidney-Desease-Classification-MLflow-DVC.git
+https://github.com/ABK9999/Kidney-Disease-Classification-using-DeepLearning-MLflow-DVC.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
